@@ -11,9 +11,9 @@
 
 ---
 
-## 7. Cadastro de Usuário
+## 1. Cadastro de Usuário
 
-### 7.1 Como Registrar uma Nova Conta
+### 1.1 Como Registrar uma Nova Conta
 
 1. Acesse a página de **Registro** clicando no link **Registrar** na página de login ou acessando diretamente: `https://www.centraldeprojetosamm.com.br/register`.
 ![Registro](https://img001.prntscr.com/file/img001/iSjqKdghQduWfU3SenrWKw.png)
@@ -36,11 +36,11 @@
 
 ---
 
-## 1. Acesso ao Sistema
+## 2. Acesso ao Sistema
 
 Após receber a confirmação de aprovação da conta, você poderá fazer login no sistema com seu e-mail e senha cadastrados.
 
-### 1.1 Login
+### 2.1 Login
 ![login](https://img001.prntscr.com/file/img001/cV24bxfPR-CpTxxuK4xeqQ.png)
 - Acesse a página de login no endereço: `https://www.centraldeprojetosamm.com.br`.
 - Insira seu **e-mail** e **senha** nos campos indicados.
@@ -52,7 +52,7 @@ Caso tenha esquecido sua senha, siga as instruções na seção de **Recuperaç�
 
 ---
 
-## 2. Recuperação de Senha
+## 3. Recuperação de Senha
 ![Recuperar_Senha](https://img001.prntscr.com/file/img001/6hC6XcYpTyWEI9yGs-3nnA.png)
 - Na página de login, clique em **Esqueceu sua senha?** ou diretamente por aqui `https://www.centraldeprojetosamm.com.br/forgot-password`.
 - Digite o e-mail associado à sua conta e clique em **Enviar link de redefinição**.
@@ -62,7 +62,7 @@ Caso tenha esquecido sua senha, siga as instruções na seção de **Recuperaç�
 
 ---
 
-## 8. Edição de Usuário ⚙️
+## 4. Edição de Usuário ⚙️
 ![user_edit](https://img001.prntscr.com/file/img001/xren9qluQC-fjKU8_aFAwA.png)
 1. Após fazer login, clique no menu de configurações de usuário no canto superior direito (⚙️).
 
@@ -74,9 +74,9 @@ Caso tenha esquecido sua senha, siga as instruções na seção de **Recuperaç�
 
 ---
 
-## 3. Cadastro de Projetos
+## 5. Cadastro de Projetos
 
-### 3.1 Como Iniciar uma Nova Solicitação de Projeto
+### 5.1 Como Iniciar uma Nova Solicitação de Projeto
 ![request](https://img001.prntscr.com/file/img001/26wFYIAsT-ywVMUtFk2YRg.png)
 1. Acesse o painel de controle do sistema.
 
@@ -106,9 +106,9 @@ Caso tenha esquecido sua senha, siga as instruções na seção de **Recuperaç�
 
 ---
 
-## 4. Acompanhamento de Projetos
+## 6. Acompanhamento de Projetos
 
-### 4.1 Categorias
+### 6.1 Categorias
 
 1. Na página inicial, é possível visualizar o status das suas solicitações, separadas por três categorias:
 ![categorias](https://img001.prntscr.com/file/img001/tyTnPBxuQ_aCQ_O8oyeZdQ.png)
@@ -116,7 +116,7 @@ Caso tenha esquecido sua senha, siga as instruções na seção de **Recuperaç�
    - **Concluído**: A solicitação foi aprovada e finalizada.
    - **Rejeitado**: A solicitação foi rejeitada. Você poderá visualizar a justificativa.
 
-### 4.2 Filtros
+### 6.2 Filtros
 
 1. Você pode filtrar suas solicitações por data. Clique na caixa de seleção para abrir o "date picker", selecione a data desejada, e as solicitações serão filtradas automaticamente.
 ![datapicker](https://prnt.sc/fF9PAt04kSo5)
@@ -124,7 +124,7 @@ Caso tenha esquecido sua senha, siga as instruções na seção de **Recuperaç�
 2. Também é possível filtrar solicitações pelo código do protocolo enviado por e-mail no momento da criação.
 ![filtro](https://img001.prntscr.com/file/img001/uBDZuKibRTep3mXXhAs5mA.png)
 
-### 4.3 Pendências
+### 6.3 Pendências
 
 1. As pendências serão listadas individualmente para cada item da solicitação, por exemplo, o `Ofício`.
 ![pendencia](https://img001.prntscr.com/file/img001/9l51ocFZQWiaaJJuHbc2ow.png)
@@ -139,6 +139,6 @@ Caso tenha esquecido sua senha, siga as instruções na seção de **Recuperaç�
 
 ---
 
-## 6. Logout
+## 7. Logout
 
 - Para sair do sistema, clique no botão **Logout** no menu superior à direita.
